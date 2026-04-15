@@ -6073,6 +6073,11 @@
             "battery_quantity": 2
         },
         {
+            "manufacturer": "Linkind",
+            "model": "ZB-DoorSensor-D0003",
+            "battery_type": "CR2032"
+        },
+        {
             "manufacturer": "LinkTap",
             "model": "TP-2NS",
             "model_id": "D1315C2D004B1200",
@@ -12433,11 +12438,6 @@
             "manufacturer": "ZVIDAR",
             "model": "Z-CM-V01",
             "battery_type": "Rechargeable"
-        },
-        {
-            "manufacturer": "Linkind",
-            "model": "ZB-DoorSensor-D0003",
-            "battery_type": "CR2032"
         }
     ]
 }
