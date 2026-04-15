@@ -1,4 +1,4 @@
-## 2143 Devices in library
+## 2144 Devices in library
 
 This file is auto generated, do not modify
 
@@ -1026,6 +1026,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |Kwikset                                         |SMARTCODE_DEADBOLT_10T                                                                        |4× AA                     |                                   |                                      |
 |LDS                                             |ZBT-CCTSwitch-D0001                                                                           |CR2450                    |                                   |                                      |
 |Leedarson                                       |4-Key Remote Controller (6ARCZABZH)                                                           |CR2450                    |                                   |                                      |
+|Legrand                                         |Home & away switch / master switch                                                            |CR2032                    |                              64873|V2                                    |
 |Legrand                                         |Wireless double remote switch                                                                 |CR2032                    |                              67774|V3                                    |
 |Legrand                                         |Wireless remote switch                                                                        |CR2032                    |                              67773|V3                                    |
 |Lenovo                                          |TB328FU                                                                                       |Rechargeable              |                                   |Firmware: 31                          |
