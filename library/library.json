@@ -5902,6 +5902,13 @@
             "battery_type": "CR2032"
         },
         {
+            "manufacturer": "Legrand",
+            "model": "Wireless remote switch",
+            "model_id": "067773",
+            "hw_version": "V3",
+            "battery_type": "CR2032"
+        },
+        {
             "manufacturer": "Lenovo",
             "model": "TB328FU",
             "hw_version": "Firmware: 31",
@@ -12396,13 +12403,6 @@
             "manufacturer": "ZVIDAR",
             "model": "Z-CM-V01",
             "battery_type": "Rechargeable"
-        },
-        {
-            "manufacturer": "Legrand",
-            "model": "Wireless remote switch",
-            "model_id": "067773",
-            "hw_version": "V3",
-            "battery_type": "CR2032"
         }
     ]
 }

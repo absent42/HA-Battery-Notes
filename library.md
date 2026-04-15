@@ -1,4 +1,4 @@
-## 2142 Devices in library
+## 2143 Devices in library
 
 This file is auto generated, do not modify
 
@@ -1027,6 +1027,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |LDS                                             |ZBT-CCTSwitch-D0001                                                                           |CR2450                    |                                   |                                      |
 |Leedarson                                       |4-Key Remote Controller (6ARCZABZH)                                                           |CR2450                    |                                   |                                      |
 |Legrand                                         |Wireless double remote switch                                                                 |CR2032                    |                              67774|V3                                    |
+|Legrand                                         |Wireless remote switch                                                                        |CR2032                    |                              67773|V3                                    |
 |Lenovo                                          |TB328FU                                                                                       |Rechargeable              |                                   |Firmware: 31                          |
 |Level Home                                      |Level Bolt (Matter)                                                                           |CR2                       |                                  3|B12                                   |
 |Level Home                                      |Level Lock Pro                                                                                |CR2                       |                                  4|B05                                   |
