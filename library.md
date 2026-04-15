@@ -1,4 +1,4 @@
-## 2148 Devices in library
+## 2149 Devices in library
 
 This file is auto generated, do not modify
 
@@ -238,6 +238,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |Aqara                                           |Aqara Smart Lock U100                                                                         |4× AA                     |                                   |                                      |
 |Aqara                                           |Aqara Smart Lock U200                                                                         |Rechargeable              |                              10242|1.0.0.0                               |
 |Aqara                                           |Aqara Smart Lock U300                                                                         |4× AA                     |                                   |                                      |
+|Aqara                                           |Aqara Smart Lock U400                                                                         |Rechargeable              |                              10244|1.0.0.0                               |
 |Aqara                                           |Aqara Smart Lock U50                                                                          |4× AA                     |                                   |                                      |
 |Aqara                                           |Aqara Temp/Humidity Sensor                                                                    |CR2032                    |                                   |                                     1|
 |Aqara                                           |Aqara Wireless Mini Switch                                                                    |CR2032                    |                                   |                                     0|
