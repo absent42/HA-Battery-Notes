@@ -1,4 +1,4 @@
-## 2144 Devices in library
+## 2145 Devices in library
 
 This file is auto generated, do not modify
 
@@ -814,6 +814,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |Heatmiser                                       |Heatmiser Air Sensor                                                                          |CR2032                    |                                   |                                      |
 |Heatmiser                                       |NeoAir V2                                                                                     |4× AAA                    |                                   |                                      |
 |Heiman                                          |Carbon monoxide alarm                                                                         |CR123A                    |HS1CA-E                            |                                      |
+|Heiman                                          |Door sensor                                                                                   |2× AAA                    |HS1DS                              |V16                                   |
 |HEIMAN                                          |HS-720ES-M                                                                                    |2× AA                     |                                   |                                      |
 |HEIMAN                                          |HS1SA-M                                                                                       |CR123A                    |                                   |                                      |
 |HEIMAN                                          |HS2WD-E                                                                                       |LP103454 3.7v 700mah      |                                   |                                      |

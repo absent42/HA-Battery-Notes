@@ -4658,6 +4658,14 @@
             "battery_type": "CR123A"
         },
         {
+            "manufacturer": "Heiman",
+            "model": "Door sensor",
+            "model_id": "HS1DS",
+            "hw_version": "V16",
+            "battery_type": "AAA",
+            "battery_quantity": 2
+        },
+        {
             "manufacturer": "HEIMAN",
             "model": "HS-720ES-M",
             "battery_type": "AA",
@@ -12410,14 +12418,6 @@
             "manufacturer": "ZVIDAR",
             "model": "Z-CM-V01",
             "battery_type": "Rechargeable"
-        },
-        {
-            "manufacturer": "Heiman",
-            "model": "Door sensor",
-            "model_id": "HS1DS",
-            "hw_version": "V16",
-            "battery_type": "AAA",
-            "battery_quantity": 2
         }
     ]
 }
