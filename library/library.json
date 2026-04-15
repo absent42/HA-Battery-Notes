@@ -4764,6 +4764,14 @@
             "battery_type": "CR123A"
         },
         {
+            "manufacturer": "Heiman",
+            "model": "Water leakage sensor",
+            "model_id": "HS1WL/HS3WL",
+            "hw_version": "V18",
+            "battery_type": "AAA",
+            "battery_quantity": 2
+        },
+        {
             "manufacturer": "HEIMAN",
             "model": "Water leakage sensor (HS1WL/HS3WL)",
             "battery_type": "AAA",
@@ -12425,14 +12433,6 @@
             "manufacturer": "ZVIDAR",
             "model": "Z-CM-V01",
             "battery_type": "Rechargeable"
-        },
-        {
-            "manufacturer": "Heiman",
-            "model": "Water leakage sensor",
-            "model_id": "HS1WL/HS3WL",
-            "hw_version": "V18",
-            "battery_type": "AAA",
-            "battery_quantity": 2
         }
     ]
 }
