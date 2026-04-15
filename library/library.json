@@ -5636,6 +5636,12 @@
             "battery_type": "CR2032"
         },
         {
+            "manufacturer": "Imou",
+            "model": "IPC-B46L-White",
+            "hw_version": "8C08DD5PAZC9B87",
+            "battery_type": "Rechargeable"
+        },
+        {
             "manufacturer": "INKBIRD",
             "model": "IBS-TH",
             "battery_type": "AAA",
@@ -12383,12 +12389,6 @@
         {
             "manufacturer": "ZVIDAR",
             "model": "Z-CM-V01",
-            "battery_type": "Rechargeable"
-        },
-        {
-            "manufacturer": "Imou",
-            "model": "IPC-B46L-White",
-            "hw_version": "8C08DD5PAZC9B87",
             "battery_type": "Rechargeable"
         }
     ]
