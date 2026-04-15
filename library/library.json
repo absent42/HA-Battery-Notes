@@ -6080,11 +6080,6 @@
             "battery_quantity": 2
         },
         {
-            "manufacturer": "LK",
-            "model": "ZB-DoorSensor-D0003",
-            "battery_type": "CR2032"
-        },
-        {
             "manufacturer": "LinkTap",
             "model": "TP-2NS",
             "model_id": "D1315C2D004B1200",
@@ -6096,6 +6091,11 @@
             "model": "A001082",
             "battery_type": "AAA",
             "battery_quantity": 2
+        },
+        {
+            "manufacturer": "LK",
+            "model": "ZB-DoorSensor-D0003",
+            "battery_type": "CR2032"
         },
         {
             "manufacturer": "Loginovo",
