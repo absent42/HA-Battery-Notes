@@ -176,6 +176,11 @@
             "battery_type": "CR2032"
         },
         {
+            "manufacturer": "_TZ3000_amis43tj",
+            "model": "TS0207",
+            "battery_type": "CR2450"
+        },
+        {
             "manufacturer": "_TZ3000_au1rjicn",
             "model": "TS0203",
             "battery_type": "CR2032"
@@ -12445,11 +12450,6 @@
             "manufacturer": "ZVIDAR",
             "model": "Z-CM-V01",
             "battery_type": "Rechargeable"
-        },
-        {
-            "manufacturer": "_TZ3000_amis43tj",
-            "model": "TS0207",
-            "battery_type": "CR2450"
         }
     ]
 }
