@@ -1,4 +1,4 @@
-## 2151 Devices in library
+## 2152 Devices in library
 
 This file is auto generated, do not modify
 
@@ -1173,6 +1173,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |Netatmo                                         |Smart Thermostat                                                                              |3× AAA                    |                                   |                                      |
 |Netatmo                                         |Smart Valve                                                                                   |2× AA                     |                                   |                                      |
 |Netatmo                                         |VELUX Sensor                                                                                  |3× AA                     |                                   |                                      |
+|Nexia Home Intelligence                         |ZSENS930                                                                                      |2× AAA                    |                                   |                                      |
 |Nexturn                                         |Door_Sensor                                                                                   |CR123A                    |                                   |                                      |
 |Nexturn                                         |Leak_Sensor                                                                                   |CR123A                    |                                   |                                      |
 |Niko                                            |Battery switch with 1 button                                                                  |CR2450                    |552-720X1                          |                                     0|
