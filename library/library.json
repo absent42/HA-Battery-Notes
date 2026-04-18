@@ -1292,7 +1292,7 @@
         },
         {
             "manufacturer": "Aqara",
-            "model": "Aqara Multi-State Sensor P100",
+            "model": "Multi-State Sensor P100",
             "model_id": "DWZTCGQ11LM",
             "hw_version": "1",
             "battery_type": "CR2450"
